@@ -1,7 +1,7 @@
 Download PC Tools Software for Windows 10 & 11 – Optimize Your Computer Now
 ============================================================
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: getstart.png
    :alt: My Project Logo
    :width: 400px
    :align: center
