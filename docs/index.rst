@@ -3,7 +3,7 @@ Download PC Tools Software for Windows 10 & 11 – Optimize Your Computer Now
 
 No matter how powerful your computer is, over time it can start to slow down. Files accumulate, software updates pile up, and background programs drain resources. A sluggish computer not only affects productivity but can also become frustrating to use. Thankfully, there are PC optimization tools that can help clean, tune, and boost your computer’s performance effortlessly.  
 
-.. image:: getstart.png
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
